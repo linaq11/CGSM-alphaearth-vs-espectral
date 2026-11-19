@@ -9,8 +9,8 @@ authors:
 type: software
 license: MIT
 doi: "10.5281/zenodo.23709966"
-repository-code: "https://github.com/linaq11/cgsm-alphaearth-vs-espectral"
-url: "https://github.com/linaq11/cgsm-alphaearth-vs-espectral"
+repository-code: "https://github.com/linaq11/CGSM-alphaearth-vs-espectral"
+url: "https://github.com/linaq11/CGSM-alphaearth-vs-espectral"
 date-released: "2026-10-27"
 keywords:
   - AlphaEarth

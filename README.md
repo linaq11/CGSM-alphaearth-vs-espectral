@@ -55,7 +55,7 @@ Fuentes de datos, todas abiertas:
 
 ## Cómo citar
 
-Quintero Fonseca, L. M. (2026). *Representaciones de modelos fundacionales frente a variables espectrales en el manglar de la Ciénaga Grande de Santa Marta: una comparación con validación espacial* [Código y resultados]. GitHub. https://github.com/linaq11/cgsm-alphaearth-vs-espectral
+Quintero Fonseca, L. M. (2026). *Representaciones de modelos fundacionales frente a variables espectrales en el manglar de la Ciénaga Grande de Santa Marta: una comparación con validación espacial* [Código y resultados]. GitHub. https://github.com/linaq11/CGSM-alphaearth-vs-espectral
 
 ## Licencia
 
